@@ -101,3 +101,8 @@ ENV/
 .mypy_cache/
 
 .github/**
+
+# data
+assets/train/**
+assets/valid/**
+assets/test/**
