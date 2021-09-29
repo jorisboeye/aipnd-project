@@ -103,6 +103,4 @@ ENV/
 .github/**
 
 # data
-assets/train/**
-assets/valid/**
-assets/test/**
+flowers/**
