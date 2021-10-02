@@ -104,3 +104,6 @@ ENV/
 
 # data
 flowers/**
+
+# checkpoints
+*.pth
